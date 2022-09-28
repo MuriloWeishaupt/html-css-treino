@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    
+    font-family: 'Times New Roman', Times, serif;
+    background-image:linear-gradient(to bottom, white, blue);
+    font-size: 1em;
+    font: italic bolder 1em times New Roman, times, serif;
+}
+h1{
+    font-family: serif;
+}
+h2{
+    font-family: serif;
+}
+main{
+    background-color: white;
+    
+}
